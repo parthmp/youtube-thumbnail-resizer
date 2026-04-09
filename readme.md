@@ -30,7 +30,7 @@ This controls how many video cards are rendered in each row.
 ### Load as an unpacked extension
 
 1. Clone or download this repository.
-```git clone https://github.com/yourusername/youtube-thumbnail-grid-controller.git```
+```git clone https://github.com/parthmp/youtube-thumbnail-grid-controller.git```
 
 2. Open Chrome extensions page:
 ```chrome://extensions```
