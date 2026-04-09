@@ -61,4 +61,4 @@ This extension:
 
 ## License
 
-MIT License
+MIT — see the LICENSE file for details.
