@@ -8,6 +8,12 @@ YouTube limits the number of thumbnails displayed per row, often leaving large e
 
 The change is applied instantly without reloading the page.
 
+## Before
+![Before](https://github.com/parthmp/youtube-thumbnail-resizer/blob/main/example/before.png?raw=true)
+
+## After
+![After](https://github.com/parthmp/youtube-thumbnail-resizer/blob/main/example/after.png?raw=true)
+
 ## Features
 
 - Adjust the number of thumbnails per row
