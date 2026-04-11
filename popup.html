@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="style.css">
-<style>
-	ytd-rich-grid-renderer {
-    max-width: none !important;
-}
-</style>
+	<link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
 
@@ -15,7 +10,11 @@
 <input type="range" min="2" max="10" value="6" id="slider">
 <span id="value">6</span>
 
-<script src="popup.js"></script>
+<div class="checkbox-flex">
+	<label><input id="shorts-checkbox" type="checkbox" class="shorts-checkbox"><span>Hide shorts suggestions on home page</span></label>
+</div>
+
+<script src="./scripts/popup.js"></script>
 
 </body>
 </html>
